@@ -1,0 +1,5 @@
+GET http://localhost:3000/login/
+{
+  "username": "christopher_phillips",
+  "password": "christy@123"
+}
